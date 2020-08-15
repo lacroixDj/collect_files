@@ -5,17 +5,17 @@ Small repo to show how to walk a dir path recursively and collect only its files
 - node.js ^12.xx.xx (LTS version)
 - npm ^6.xx.xx (LTS version included with node.js)
 
-## Cloning the repo from Github: 
+## Install: 
 
 ```
 # git clone https://github.com/lacroixDj/collect_files.git
 # cd collect_files/
-```
-
-## Run: 
-
-```
 # npm install
+```
+
+## Run:
+
+```
 # node index.js
 ```
 
